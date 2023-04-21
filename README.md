@@ -2,7 +2,7 @@
 Official PyTorch implementation of **Picking Up Quantization Steps for Compression Image Classification**.
 
 ## 1.The sensitivity of deep neural networks to compressed images.
-![a](imgs/ImageNet_samples/Q75.png)
+![a](https://github.com/LiMaPKU/QSAM/blob/main/imgs/ImageNet_samples/Q75.png)
 More samples are shown in `imgs/ImageNet_samples/Q100-10.png`
 
 ## 2. Requirements
@@ -24,9 +24,9 @@ python main.py --base_lr 0.1 --meta_lr 0.004 --base_epochs 200 --meta_epochs 150
 ## 4. Results
 Main results on CIFAR-10-J and CIFAR-100-J.
 
-| ![2](imgs/results/CIFAR-10-J.png)   | ![z](imgs/results/CIFAR-100-J.png) |
+| ![2](https://github.com/LiMaPKU/QSAM/blob/main/imgs/results/CIFAR-10-J.png)   | ![z](https://github.com/LiMaPKU/QSAM/blob/main/imgs/results/CIFAR-100-J.png) |
 | ------------------------------ | ---------------------------- |
-| ![2](imgs/results/CIFAR-10-J-100-70.png)   | ![z](imgs/results/CIFAR-100-J-100-70.png) |
+| ![2](https://github.com/LiMaPKU/QSAM/blob/main/imgs/results/CIFAR-10-J-100-70.png)   | ![z](https://github.com/LiMaPKU/QSAM/blob/main/imgs/results/CIFAR-100-J-100-70.png) |
 | ------------------------------ | ---------------------------- |
 
 ## 5. Citation
